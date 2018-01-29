@@ -12,6 +12,12 @@ K gps low-power
 F https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf
 $ENDCMP
 #
+$CMP u-blox_LEA-M8T
+D u-blox Concurrent GNSS Timing Module
+K gps gnss timing 
+F https://www.u-blox.com/sites/default/files/NEO-LEA-M8T-FW3_DataSheet_%28UBX-15025193%29.pdf
+$ENDCMP
+#
 $CMP u-blox_NEO-M8T
 D u-blox Concurrent GNSS Timing Module
 K gps gnss timing 
